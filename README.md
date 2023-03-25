@@ -12,10 +12,6 @@
 <a href="https://github.com/lucidrains/perceiver-pytorch/blob/main/perceiver_pytorch/perceiver_pytorch.py">➢ Tensorflow - Clint Morris</a></pre>
 
             
-    </div>
-    <div style="width: 400; float: right;">
-        <img src="https://s10.gifyu.com/images/demo38de86fabd82634d.gif"  width="500">
-    </div>
-</div>
+![Demo](https://s10.gifyu.com/images/demo38de86fabd82634d.gif)
 
-<img src="https://i.ibb.co/gTtgNfY/My-project.png" width="120" style="position: absolute; bottom: 0; left: 0;">
+<img src="https://i.ibb.co/gTtgNfY/My-project.png" width="100" style="position: absolute; bottom: 0; left: 0;">
