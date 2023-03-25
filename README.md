@@ -1,23 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-    body {
-        font-family: Arial, sans-serif; /* Change the font to Arial */
-    }
-    
-    .red-text {
-        color: red; /* Change the text color to red */
-    }
-    
-    .blue-text {
-        color: blue; /* Change the text color to blue */
-    }
-</style>
-</head>
-<body>
-
-
 <div>
     <div style="width: 200; float: left;">
         <h1 style="color: #591101;  font-family: Arial, sans-serif; font-weight: 900;">Perceiver Explained</h1>
