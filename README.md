@@ -11,7 +11,7 @@
         <pre><a href="https://github.com/lucidrains/perceiver-pytorch/blob/main/perceiver_pytorch/perceiver_pytorch.py">➢ Pytorch - Phil Wang</a>
 <a href="https://github.com/lucidrains/perceiver-pytorch/blob/main/perceiver_pytorch/perceiver_pytorch.py">➢ Tensorflow - Clint Morris</a></pre>
             <br><br>
-            <img src="https://i.ibb.co/k9dtKFm/Capture.png"  width="450">
+            <img src="https://i.ibb.co/k9dtKFm/Capture.png"  width="250">
             <img src="https://i.ibb.co/gTtgNfY/My-project.png" width="120" style="position: absolute; bottom: 0; left: 0;">
     </div>
     <div style="width: 500; float: right;">
