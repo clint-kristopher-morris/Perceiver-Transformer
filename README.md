@@ -10,8 +10,7 @@
         <h4>Code Base:</h4>
         <pre><a href="https://github.com/lucidrains/perceiver-pytorch/blob/main/perceiver_pytorch/perceiver_pytorch.py">➢ Pytorch - Phil Wang</a>
 <a href="https://github.com/lucidrains/perceiver-pytorch/blob/main/perceiver_pytorch/perceiver_pytorch.py">➢ Tensorflow - Clint Morris</a></pre>
-            <br><br>
-<!--             <img src="https://i.ibb.co/k9dtKFm/Capture.png"  width="250"> -->
+
             
     </div>
     <div style="width: 400; float: right;">
